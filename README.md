@@ -30,7 +30,8 @@ a various color matrix from daltonize.org would do. Although there are Daltonize
 As suggested by vischeck.com, the quick fix is to increase the red and green contrast as to make them more distinct. 
 Also, they offer another approach that is to, "convert these (color blind type) into changes in brightness, 
 and blue/yellow coloration." This would give a new color depth which would help identify the color.
- 
+
+Dependencies: https://www.scipy.org/install.html
 
 Author: Phillip T. Emmons
 Alas, outside of a few explanations from Dylan and Chris, this was written by me.
